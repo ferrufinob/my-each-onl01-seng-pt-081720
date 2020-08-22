@@ -1,4 +1,5 @@
 def my_each(element) # put argument(s) here
   # code here
-  while 
+  i = 0
+  while element.length > 0
 end
