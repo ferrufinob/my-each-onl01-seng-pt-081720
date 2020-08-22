@@ -5,4 +5,5 @@ def my_each(element) # put argument(s) here
   yield(element[i])
    i = i + 1
 end
+element
 end
